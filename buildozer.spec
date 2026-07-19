@@ -8,7 +8,7 @@ source.include_exts = py,png,jpg,kv,atlas
 
 version = 1.0
 
-requirements = python3,pygame
+requirements = python3==3.10.13,pygame==2.5.2
 
 orientation = portrait
 fullscreen = 1
